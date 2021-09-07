@@ -15,7 +15,8 @@
 
 ### 🌐 Connect with me :
  [Gmail](himanshu2000tejan@gmail.com)  
-  🙋‍♂️**himanshu2000tejan@gmail.com**
+  🙋‍♂️**himanshu2000tejan@gmail.com** 
+    
   👨‍💻[Linkedin](https://www.linkedin.com/in/himanshu-tejan-5322711b3/)      
 
 <!--
