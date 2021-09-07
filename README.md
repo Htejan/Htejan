@@ -1,5 +1,6 @@
 ### Hey! I'm Himanshu 🙌.
-<hr/>
+<hr>
+
 ### I'm a Web Developer, Tech Enthusiast from Delhi, India.  
 
 -👨‍🎓 I'm a CSE engineering sophomore at NSUT, Delhi.  
