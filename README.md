@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hey! I'm Himanshu 🙌.
 
 <!--
 **Htejan/Htejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### I'm a Web Developer, Tech Enthusiast from Delhi, India.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
