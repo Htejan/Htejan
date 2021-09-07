@@ -1,4 +1,12 @@
 ### Hey! I'm Himanshu 🙌.
+<hr/>
+## I'm a Web Developer, Tech Enthusiast from Delhi, India.
+*👨‍🎓 I'm a CSE engineering sophomore at NSUT, Delhi.
+*💡 I'm currently learning ML,AI and advanced data structures.
+*💬 Ask me about React, Javascript.
+*💻 Favourite word : favicon
+*😄 Pronouns: He/His
+
 
 <!--
 **Htejan/Htejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
