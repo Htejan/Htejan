@@ -14,8 +14,9 @@
 <hr>
 
 ### 🌐 Connect with me :
- [Gmail](himanshu2000tejan@gmail.com)    
- [Linkedin](https://www.linkedin.com/in/himanshu-tejan-5322711b3/)      
+ [Gmail](himanshu2000tejan@gmail.com)  
+  🙋‍♂️**himanshu2000tejan@gmail.com**
+  👨‍💻[Linkedin](https://www.linkedin.com/in/himanshu-tejan-5322711b3/)      
 
 <!--
 **Htejan/Htejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
