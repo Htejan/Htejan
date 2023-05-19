@@ -8,7 +8,6 @@
 * 💡 I'm currently learning ML,AI and advanced data structures.  
 * 💬 Ask me about React, Javascript.  
 * 💻 Favourite word : **favicon**  
-* 😄 Pronouns: He/His  
 
 
 <hr>
